@@ -24,5 +24,7 @@ Why should they add a Monero wallet address to the executor? Also, in the URLs, 
 At the start, you can observe different sockets connecting and listening/sending.You can also see pings. It seems like it gets information such as:
 
 100% Sure: IPAddress, ComputerName
+
 50% Sure (Not done with my decompiling investigation yet): get_Version, get_Platform
+
 # 4.IDA
