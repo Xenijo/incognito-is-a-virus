@@ -16,7 +16,7 @@ When examining the Urlscan file, it reveals various URLs, with the most prevalen
 [Monero Wallet Address]
 4485a5b21dfc4761beb1afa4851e88278626d95642923378eb5e3f8ec12d37d5fcd61422cfb853b8a514b26cae95266
 
-Why should they add a Monero wallet address to the executor? Also, in the URLs, you can find different links to coding help websites like Stack Overflow.
+Why should they add a Monero wallet address to the executor? Also, in the URLs, you can find different links to coding help websites like Stack Overflow. The executor looks generaly stechgksy
 
 # 3.File Analyze
 [File](https://raw.githubusercontent.com/Xenijo/incognito-is-a-virus/main/Proof/Analyze)
@@ -25,4 +25,5 @@ At the start, you can observe different sockets connecting and listening/sending
 
 100% Sure: IPAddress, ComputerName
 50% Sure (Not done with my decompiling investigation yet): get_Version, get_Platform
-They also employ ntohs and htons, which is somewhat unusual.
+
+# End of current investigation
