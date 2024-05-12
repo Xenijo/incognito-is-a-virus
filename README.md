@@ -12,8 +12,10 @@ Proof that test.exe is a file from Incognito
 [File](https://raw.githubusercontent.com/Xenijo/incognito-is-a-virus/main/Proof/Urlscan)
 
 When examining the Urlscan file, it reveals various URLs, with the most prevalent being the last one:
+
 [Monero Wallet Address]
 4485a5b21dfc4761beb1afa4851e88278626d95642923378eb5e3f8ec12d37d5fcd61422cfb853b8a514b26cae95266
+
 Why should they add a Monero wallet address to the executor? Also, in the URLs, you can find different links to coding help websites like Stack Overflow.
 
 # 3.File Analyze
