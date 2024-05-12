@@ -21,7 +21,7 @@ Why should they add a Monero wallet address to the executor? Also, in the URLs, 
 # 3.File Analyze
 [File](https://raw.githubusercontent.com/Xenijo/incognito-is-a-virus/main/Proof/Analyze)
 
-At the start, you can observe different sockets connecting and listening/sending.You can also see pings and It seems like it gets information such as:
+At the start you can see pings and It seems like it gets information such as:
 
 100% Sure: IPAddress, ComputerName
 
@@ -30,3 +30,4 @@ At the start, you can observe different sockets connecting and listening/sending
 # 4.IDA
 
 ## Later
+#This current thing is complety without any decompiler so the most is just speculation
