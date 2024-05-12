@@ -1,0 +1,21 @@
+[*] Performing Windows API import/export extraction. Please wait...
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃          Discovery           ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Application Window Discovery │
+└──────────────────────────────┘
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   Privilege Escalation    ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Access Token Manipulation │
+└───────────────────────────┘
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃        Persistence        ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Event Triggered Execution │
+└───────────────────────────┘
+┏━━━━━━━━━━━━━━━━━━━━┓
+┃  Defense Evasion   ┃
+┡━━━━━━━━━━━━━━━━━━━━┩
+│ Time Based Evasion │
+└────────────────────┘
