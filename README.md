@@ -17,3 +17,4 @@ When examining the Urlscan file, it reveals various URLs, with the most prevalen
 Why should they add a Monero wallet address to the executor? Also, in the URLs, you can find different links to coding help websites like Stack Overflow.
 
 # 3.File Analyze
+[File](https://raw.githubusercontent.com/Xenijo/incognito-is-a-virus/main/Proof/Analyze)
