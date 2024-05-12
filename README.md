@@ -1,5 +1,5 @@
 # Incognito is a virus
-Developeres dm xenijo on discord(if you want to proof that it isnt a virus)
+In case i made an mistake dm xenijo on discord(with proof)
 # 1.Overview:
 Welcome to my investigation into the free Roblox exploit known as Incognito. 
 This provides an overview of my findings and the evidence I've gathered.
