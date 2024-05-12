@@ -30,4 +30,4 @@ At the start you can see pings and It seems like it gets information such as:
 # 4.IDA
 
 ## Later
-#This current thing is complety without any decompiler so the most is just speculation
+# This current thing is complety without any decompiler so the most is just speculation
