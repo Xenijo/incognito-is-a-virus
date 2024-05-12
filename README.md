@@ -27,3 +27,5 @@ At the start, you can observe different sockets connecting and listening/sending
 
 50% Sure (Not done with my decompiling investigation yet): get_Version, get_Platform (Used for getting os)
 # 4.IDA
+
+##Later
