@@ -1,0 +1,29 @@
+[*] Querying the target hash to the VirusTotal API...
+[*] Parsing the scan report...
+
+
+[*] Potential Threat Label: trojan.
+┏━━━━━━━━━━━━━━━━━━━┳━━━━━━━┓
+┃ Threat Categories ┃ Count ┃
+┡━━━━━━━━━━━━━━━━━━━╇━━━━━━━┩
+│      trojan       │   4   │
+└───────────────────┴───────┘
+┏━━━━━━━━━━━━━━┳━━━━━━━┓
+┃ Threat Names ┃ Count ┃
+┡━━━━━━━━━━━━━━╇━━━━━━━┩
+└──────────────┴───────┘
+
+[*] Detection: 9/76
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Detected By ┃           Results            ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│    APEX     │          Malicious           │
+│  Antiy-AVL  │     Trojan/Win32.Sabsik      │
+│    Bkav     │     W64.AIDetectMalware      │
+│  Fortinet   │    Malicious_Behavior.SB     │
+│   Ikarus    │      Trojan.Python.Psw       │
+│  MaxSecure  │ Trojan.Malware.300983.susgen │
+│  Microsoft  │      Trojan:Win32/Acll       │
+│  Symantec   │ ML.Attribute.HighConfidence  │
+│   Webroot   │       W32.Malware.Gen        │
+└─────────────┴──────────────────────────────┘
