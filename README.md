@@ -18,3 +18,8 @@ Why should they add a Monero wallet address to the executor? Also, in the URLs, 
 
 # 3.File Analyze
 [File](https://raw.githubusercontent.com/Xenijo/incognito-is-a-virus/main/Proof/Analyze)
+At the start, you can observe different sockets connecting and listening/sending. Additionally, it pings. It seems like it gets information such as:
+
+100% Sure: IPAddress, ComputerName
+50% Sure (Not done with my decompiling investigation yet): get_Version, get_Platform
+They also employ ntohs and htons, which is somewhat unusual.
