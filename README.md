@@ -25,5 +25,5 @@ At the start, you can observe different sockets connecting and listening/sending
 
 100% Sure: IPAddress, ComputerName
 50% Sure (Not done with my decompiling investigation yet): get_Version, get_Platform
-
+## More Soon
 # End of current investigation
