@@ -23,11 +23,8 @@ Why should they add a Monero wallet address to the executor? Also, in the URLs, 
 
 At the start you can see pings and It seems like it gets information such as:
 
-100% Sure: IPAddress, ComputerName
-
-50% Sure (Not done with my decompiling investigation yet): get_Version, get_Platform (Used for getting os)
-
+IPAddress, ComputerName, Os
 # 4.IDA
-
 ## Later
+
 # This current thing is complety without any decompiler so the most is just speculation
